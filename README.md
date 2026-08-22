@@ -40,7 +40,7 @@ src/main/resources/
 ├── schema.sql
 ├── data.sql
 └── application.yml
-```
+
 
 ## API
 
@@ -56,7 +56,6 @@ src/main/resources/
   ],
   "totalPoints": 415
 }
-```
 
 | Status | When |
 |--------|------|
